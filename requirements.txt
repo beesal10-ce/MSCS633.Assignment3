@@ -1,0 +1,12 @@
+# Assignment 3 Manifest File (requirements.txt)
+# Environment: Python 3.10+ / Django 5.x / 6.x / ChatterBot
+
+Django>=5.0.0
+ChatterBot>=1.0.5
+chatterbot-corpus>=1.2.0
+spacy>=3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+PyYAML>=6.0
+SQLAlchemy>=2.0.0
+sqlparse>=0.5.0
+asgiref>=3.8.0
